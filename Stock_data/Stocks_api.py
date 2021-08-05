@@ -3,7 +3,7 @@
 @Date: 2021-08-04
 @Last Modified by: Ayur Ninawe
 @Last Modified time: 15:00:30 2021-08-04
-@Title : Program to store tral time data on HDFS with flume
+@Title : Program to store real time data on HDFS with flume
 '''
 import csv
 import requests
